@@ -14,6 +14,18 @@ https://user-images.githubusercontent.com/80465899/127872153-f328c9e0-b408-4b6a-
 
 3 -> Flickr_logos_47
 
+# Requirements
+
+- numpy
+- pandas
+- pillow
+- pickle
+- tensorflow
+- keras
+- selective search
+- flask
+- flask_ngrok
+
 # Architecture used
 Inception Resnet V2
 
