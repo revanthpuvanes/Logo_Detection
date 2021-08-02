@@ -3,6 +3,10 @@ A brand logo detection system using Selective Search for Object Detection with R
 
 Don't forgot to check out the demo video below.
 
+# Demo Video
+https://user-images.githubusercontent.com/80465899/127872153-f328c9e0-b408-4b6a-af97-8696e7647039.mp4
+
+
 # Datasets Used
 1 -> Flickr_logos_27
 
@@ -49,12 +53,6 @@ These similarities are:
 Selective Search is widely used in early state-of-the-art architecture such as R-CNN, Fast R-CNN etc. However, Due to number of windows it processed, it takes anywhere from 1.8 to 3.7 seconds (Selective Search Fast) to generate region proposal which is not good enough for a real-time object detection system. So, consider using YOLO, SSD, Faster RCNN for better perfommance & more accurate and fast in real-time object detection system.
 
 
-
-# Demo Video
-
-
-
-https://user-images.githubusercontent.com/80465899/127872153-f328c9e0-b408-4b6a-af97-8696e7647039.mp4
 
 
 
